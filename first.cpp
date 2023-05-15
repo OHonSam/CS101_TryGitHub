@@ -2,6 +2,6 @@
 #include"second.h"
 using namespace std;
 int main(){
-    std::cout<<"This is my redemption arc";
+    std::cout<<"This is my redemption ";
     lesson();
 }
